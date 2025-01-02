@@ -1,0 +1,5 @@
+'''
+hard logic 
+- moving around 
+- 
+'''
