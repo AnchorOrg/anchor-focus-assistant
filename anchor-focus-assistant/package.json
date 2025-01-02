@@ -16,6 +16,9 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/face_detection": "^0.4.1646425229",
+    "@mediapipe/tasks-genai": "^0.10.18",
     "@react-navigation/bottom-tabs": "^7.0.0",
     "@react-navigation/native": "^7.0.0",
     "expo": "~52.0.17",
@@ -52,7 +55,7 @@
   },
   "engines": {
     "node": "v23.3.0",
-    "pnpm": "9.14.4"
-  }, 
+    "pnpm": "^9.0.0"
+  },
   "private": true
 }
