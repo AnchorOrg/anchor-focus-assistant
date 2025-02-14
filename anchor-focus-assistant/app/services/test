@@ -1,0 +1,11 @@
+Android 15のバグを報告するには、GoogleのIssue Trackerを使用します。手順は以下の通りです。
+
+1. **既存のバグを検索**: [Android Public Tracker](https://issuetracker.google.com/issues?q=)で、同じ問題が既に報告されていないか確認します。
+
+2. **新しいバグを報告**: 同様の報告がない場合、[新しいバグを作成](https://issuetracker.google.com/issues/new?component=)します。
+
+   - **詳細な情報を提供**: 問題の再現手順、期待される結果、実際の結果、デバイス情報、ログファイルなどを含めます。
+
+3. **バグの追跡**: 報告後、Issue Trackerでステータスを確認できます。
+
+詳しくは、[バグの報告と追跡 | Android Open Source Project](https://source.android.com/docs/setup/contribute/report-bugs?hl=ja)をご覧ください。 
